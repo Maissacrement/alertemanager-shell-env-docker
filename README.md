@@ -1,0 +1,1 @@
+# alertemanager-shell-env-docker
